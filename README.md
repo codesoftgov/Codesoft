@@ -3,6 +3,7 @@ CodSoft Java Internship
 This repository contains the tasks and projects completed during my Java Programming Internship at CodSoft.
 
 📂 Projects
+
 🎯 Number Game
 
 A console-based Java game where the user guesses a randomly generated number within a limited number of attempts.
