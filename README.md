@@ -1,25 +1,42 @@
-CodSoft Java Internship
+# 🚀 CodSoft Java Internship
 
-This repository contains the tasks and projects completed during my Java Programming Internship at CodSoft.
+Welcome to my **Java Programming Internship Repository** at **CodSoft**.  
+This repository showcases the tasks and projects I completed during my internship, focusing on core Java concepts and problem-solving skills.
 
-📂 Projects
+---
 
-🎯 Number Game
+## 📌 Internship Overview
+- **Domain:** Java Development  
+- **Organization:** CodSoft  
+- **Duration:** Internship Program  
 
-A console-based Java game where the user guesses a randomly generated number within a limited number of attempts.
+---
 
-📊 Student Grade Calculator
+## 🧩 Projects Included
 
-A Java program that calculates the total marks, average percentage, and final grade based on student scores.
+### 🎯 Number Guessing Game
+A fun Java console application where users guess a randomly generated number within limited attempts.
 
-🏧 ATM Interface
+### 📊 Student Grade Calculator
+Calculates total marks, average percentage, and grade based on student input using Java logic.
 
-A Java-based ATM simulation that allows users to perform operations such as withdrawal, deposit, and balance inquiry.
+### 🏧 ATM Interface
+A real-world Java simulation of an ATM system with features like deposit, withdrawal, and balance checking.
 
-🛠 Technologies Used
+---
 
-Java
+## ⚙️ Technologies & Tools
+- Java  
+- Git  
+- GitHub  
 
-Git
+---
 
-GitHub
+## 📂 Repository Purpose
+- Practice Core Java concepts  
+- Build real-world logic  
+- Improve problem-solving skills  
+
+---
+
+⭐ *Thank you for visiting this repository!*
